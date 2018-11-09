@@ -36,10 +36,10 @@
 ###  Correct
 ```Java
   for(i = 0; i < 4; i++) 
-     {                   
-     doThis();           
-     doThat();           
-     }                   
+  {                   
+  doThis();           
+  doThat();           
+  }                   
 ```
 
 ###  Incorrect
